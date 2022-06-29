@@ -9,7 +9,7 @@
 <h1>Execution</h1>
 
 <p align="left">
-<img width="603" alt="Screen Shot 2022-06-29 at 5 03 15 PM" src="https://user-images.githubusercontent.com/94927484/176544420-53bdc033-1ce0-47a0-914b-8e764efef0fc.png">
+<img width="500" alt="Screen Shot 2022-06-29 at 5 00 34 PM" src="https://user-images.githubusercontent.com/94927484/176544592-6e82504c-7909-4a6e-8bdf-8cf1ce6afe4e.png">
 </p>
 
 <h1>Built With</h1>
